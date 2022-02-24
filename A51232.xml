@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the right honourable Sir John Moore, Knight, at Guild-Hall, Septemb. 29th, 1681 when he was elected lord-mayor of London, together, with some passages of his deportment on the twenty-fourth of June, 1682, and before, in relation to the election of sheriffs for the said city, and county of Middlesex.</title>
+            <author>Moore, John, Sir, 1620-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51232</idno>
+            <idno type="STC">Wing M2557</idno>
+            <idno type="STC">ESTC R2907</idno>
+            <idno type="EEBO-CITATION">12078423</idno>
+            <idno type="OCLC">ocm 12078423</idno>
+            <idno type="VID">53651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53651)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 818:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the right honourable Sir John Moore, Knight, at Guild-Hall, Septemb. 29th, 1681 when he was elected lord-mayor of London, together, with some passages of his deportment on the twenty-fourth of June, 1682, and before, in relation to the election of sheriffs for the said city, and county of Middlesex.</title>
+                  <author>Moore, John, Sir, 1620-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Local elections --  England --  London --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:53651:1" rendition="simple:additions"/>
+            <head>THE SPEECH Of the Right Honourable Sir John Moore, Knight, AT GUILD-HALL, <hi>Septemb.</hi> 29<hi>th.</hi> 1681. When He was ELECTED <hi>Lord-Mayor of London.</hi>
+            </head>
+            <head type="sub">
+               <hi>Together, with ſome Paſſages of his Deport<g ref="char:EOLhyphen"/>ment on the</hi> Twenty-Fourth <hi>of</hi> June, 1682. <hi>and before, in Relation to the</hi> Election of Sheriffs <hi>for the ſaid City, and County of</hi> Middleſex.</head>
+            <opener>
+               <salute>Gentlemen, and Worthy Citizens;</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Give you all my hearty thanks for the great Honour you have done me this Day, in chuſing me your chief Ma<g ref="char:EOLhyphen"/>giſtrate for the Year enſuing.</p>
+            <p>It is a very great Truſt you have repoſed in me, and a high and Honourable Employ<g ref="char:EOLhyphen"/>ment to which you have called me. It ſhall be my great Care, to the uttermoſt of my Power, with God's Bleſſing, and your Aſſiſt<g ref="char:EOLhyphen"/>ance, to diſcharge it faithfully. It is a Work I never did, and requires that Strength I never had, which I hope the Lord will grant me. God by you hath called me to it, and I truſt will carry me through it.</p>
+            <p>Magiſtracy is an Ordinance ſet up by Di<g ref="char:EOLhyphen"/>vine Authority<g ref="char:punc">▪</g> and Government is appoin<g ref="char:EOLhyphen"/>ted for the Good of Mankind, to keep the World in Order, to which is due great Re<g ref="char:EOLhyphen"/>verence and Obedience: I wiſh all Men did their Duty.</p>
+            <p>I am ſorry to hear and ſee ſuch great Divi<g ref="char:EOLhyphen"/>ſions amongſt us; certainly they are in a great Error that are Promoters of them. It's the Deſign of <hi>Rome</hi> to divide us; it will be the Wiſdom of <hi>Proteſtants</hi> to prevent and diſappoint them, by living together as Bre<g ref="char:EOLhyphen"/>thren in <g ref="char:V">Ʋ</g>nity amongſt themſelves. And my Requeſt to you all is, to exerciſe Chriſtian Charity; to forbear Reproaching and Back<g ref="char:EOLhyphen"/>biting one another; to ſtudy Quietneſs a<g ref="char:EOLhyphen"/>mong your ſelves; to diſcourage Sin and Wickedneſs; to promote Piety and Godli<g ref="char:EOLhyphen"/>neſs: which will bring Glory to God, Ho<g ref="char:EOLhyphen"/>nour to the King and His Government, Peace, Happineſs and Proſperity to this City; which God Almighty grant; and let all the People ſay, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>
+               <hi>His Deportment about the Election of</hi> Sheriffs.</head>
+            <p>AT the <hi>Bridge-Houſe-Feaſt,</hi> the Eigh<g ref="char:EOLhyphen"/>teenth day of <hi>May,</hi> 1682, His <hi>Lord<g ref="char:EOLhyphen"/>ſhip</hi> was pleaſed to Drink to Mr. <hi>Dudley North;</hi> which Ceremony of the <hi>Lord</hi>
+               <pb n="2" facs="tcp:53651:2"/>
+               <hi>Mayors</hi> Drinking to a Man at that time, though it be generally taken to ſignify no more than that ſuch a Man is put in Nomination, or is judged fit by the <hi>Lord Mayor</hi> to be <hi>One</hi> of the <hi>Sheriffs,</hi> in Caſe he be Elected by the <hi>Common-Hall;</hi> yet ſome time before the Day of Election, his Lord and Court of <hi>Aldermen,</hi> took Mr. <hi>North</hi>'s Bond to Hold <hi>Sheriff,</hi> meer<g ref="char:EOLhyphen"/>ly upon His <hi>Lordſhips</hi> having Drunk to him, as aforeſaid. And accordingly, in Order to the Conſtituting of him <hi>Sheriff,</hi> His <hi>Lordſhip</hi> was pleaſed the Nineteenth Day of <hi>June,</hi> 1682, to iſſue his <hi>Precept</hi> to the ſeveral Companies in the <hi>unac<g ref="char:EOLhyphen"/>cuſtomed</hi> form following:</p>
+            <q>
+               <p>
+                  <hi>THeſe are to require you, That on</hi> Mid<g ref="char:EOLhyphen"/>ſummer-day <hi>next, being the Day appointed, as well for</hi> Confirmation <hi>of the Perſon,</hi> who hath been by Me Choſen, <hi>according to the Antient Cuſtom, and Con<g ref="char:EOLhyphen"/>ſtitution of this</hi> City; <hi>to be One of the</hi> Sheriffs <hi>of this</hi> City, <hi>and County of</hi> Mid<g ref="char:EOLhyphen"/>dleſex, <hi>for the Year enſuing; as for the</hi> E<g ref="char:EOLhyphen"/>lection <hi>of the Other of the ſaid</hi> Sheriffs, <hi>and other Officers: You cauſe the</hi> Livery <hi>of Your</hi> Company, <hi>to Meet together at Your</hi> Common-Hall, <hi>early in the Morn<g ref="char:EOLhyphen"/>ing; and from thence, to come together Decently and Orderly, in their Gowns, to</hi> Guild-Hall, <hi>there to Make the ſaid</hi> Con<g ref="char:EOLhyphen"/>firmation <hi>and</hi> Election.</p>
+            </q>
+            <p>On <hi>Midſummer-day,</hi> Mr. <hi>North, Papil<g ref="char:EOLhyphen"/>lion, Dubois,</hi> and <hi>Box,</hi> being named as <hi>Candidates</hi> for the <hi>Election,</hi> upon View of the Hands, the <hi>Election</hi> was decla<g ref="char:EOLhyphen"/>red to fall upon <hi>Papillion,</hi> and <hi>Dubois;</hi> who were judged to have the Majority of Hands by a <hi>Thouſand,</hi> or <hi>Twelve Hun<g ref="char:EOLhyphen"/>dred.</hi> Whereupon Mr. <hi>North</hi>'s, and Mr. <hi>Box</hi>'s Friends demanding a <hi>Poll,</hi> it was granted. But they finding that the <hi>Poll</hi> was likely to be carried for <hi>Papillion</hi> and <hi>Dubois,</hi> ſome of them went to the <hi>Lord Mayor,</hi> and by falſe Suggeſtions, pre<g ref="char:EOLhyphen"/>vailed with him to go the <hi>Council-Cham<g ref="char:EOLhyphen"/>ber;</hi> and, being there, he ſent for the <hi>Sheriffs</hi> to attend Him: but they deſi<g ref="char:EOLhyphen"/>ring his <hi>Lordſhip's</hi> Excuſe till the <hi>Poll</hi> was over, he went to the <hi>Polling-place,</hi> and ſeemed to forbid any further Pro<g ref="char:EOLhyphen"/>ceeding in the <hi>Poll:</hi> And though they gave him Reaſons, why they ought to proceed in the <hi>Poll,</hi> (being then, as they ſaid, in the Legal Diſcharge of their Of<g ref="char:EOLhyphen"/>fice) yet his <hi>Lordſhip</hi> not being ſatisfied there-with, and they con<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nuing to <hi>Poll;</hi> He, with a few <hi>Aldermen,</hi> went to the <hi>Haſtings</hi> about Seven <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Even<g ref="char:EOLhyphen"/>ing, (while the <hi>Sheriffs</hi> wer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Polling in the Yard) and th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Common Crier,</hi> by his <hi>Lordſhip's</hi> Direction, ſpoke to the Pro<g ref="char:EOLhyphen"/>miſcuous Company in the <hi>Hall,</hi> to the Effect following, <hi>All you that were Sum<g ref="char:EOLhyphen"/>moned to appear here this Day, are requi<g ref="char:EOLhyphen"/>red to depart; and to give your Attendance on</hi> Tueſday, <hi>at Nine of the Clock in the Morning.</hi> As ſoon as the <hi>Cryer</hi> had ſaid thus, his <hi>Lordſhip,</hi> and the <hi>Aldermen</hi> roſe, and went away.</p>
+            <p>Now, though I am confident his <hi>Lord<g ref="char:EOLhyphen"/>ſhip</hi> is not ignorant, that many Perſons have ſeverely reflected on the New Te<g ref="char:EOLhyphen"/>nour of his Precept aforeſaid, and his inſiſting on his Right of Chuſing <hi>One</hi> of the <hi>Sheriffs,</hi> contrary to the general<g ref="char:EOLhyphen"/>ly received Opinion, grounded (as they tell us) on the known Laws, undoub<g ref="char:EOLhyphen"/>ted Privileges, and uninterrupted Cu<g ref="char:EOLhyphen"/>ſtoms, and Uſages of the City; which impowers the <hi>Commoners</hi> to Chuſe <hi>Two Sheriffs;</hi> adding, That this is their Right by <hi>Preſcription,</hi> as well as <hi>Charter.</hi> And though they further reflect on Him, for Adjourning the <hi>Court</hi> the <hi>Twenty-Fourth</hi> of <hi>June</hi> laſt, and for pretending a Right in managing the <hi>Poll,</hi> which (they ſay) belongs ſolely to the <hi>Sheriffs,</hi> and that his <hi>Lordſhip</hi> knows it to be ſo; with much more to this purpoſe: Yet, for my part, I ſhall neither mention any of his <hi>Lordſhip's</hi> Proceedings, ſince the <hi>Twen<g ref="char:EOLhyphen"/>ty-Fourth</hi> of <hi>June;</hi> nor determine how far his Speech and Actions aforeſaid, do agree, or differ; but ſhall leave that en<g ref="char:EOLhyphen"/>tirely to the Conſideration of his <hi>Lord<g ref="char:EOLhyphen"/>ſhip,</hi> and the Impartial <hi>Readers.</hi>
+            </p>
+            <p>The <hi>Speech</hi> is Printed from that Copy of it, Publiſhed by <hi>Jonathan Robinſon;</hi> and the Account of thoſe Paſſages re<g ref="char:EOLhyphen"/>ferring to the <hi>Election of Sheriffs,</hi> is Extracted out of a Paper Publiſhed by <hi>L. Curtis.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Read,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
